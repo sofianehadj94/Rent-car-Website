@@ -1,0 +1,43 @@
+.h2o{
+    background-color: brown;
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: flex-start;
+align-items: center;
+}
+
+
+.h2o01{
+    background-color: rgb(99, 42, 165);
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 5px;
+
+
+}
+
+.h2o02{
+    background-color: rgb(48, 223, 25);
+    width: 600px;
+    height: 400px;
+    display: flex;
+    justify-content: flex-end;
+  align-items: flex-end;
+}
+.sos123{
+    width: 20px;
+    height: 40px;
+    background-color: aquamarine;
+}
+button{
+    width: 60px;
+    height: 80px;
+}
+
+
+

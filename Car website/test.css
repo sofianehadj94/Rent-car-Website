@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+*{
+margin: 0;
+padding: 0;
+text-decoration: none;
+list-style-type: none;
+box-sizing: border-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    }
+    nav{
+        position: fixed;
+        width: 100%;
+        padding-inline: 10px;
+        height: 70px;
+        background-color: aliceblue;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    
+    }
+     
+    ul{
+        display: %flex;
+        justify-content: flex-start;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .h001{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+.h002{
+border: 20%;
+width: 20px;
+height: 20px;
+}

@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
+h1{
+    color: rgb(231, 171, 6);
+background-color: rgb(300, 300, 219);
+font: size 2000px;
+font-family: "Abril Fatface", serif;
+
+font-size: 25cap;
+}
+#test02{
+    color: green;
+    background-color: blue;
+    font-weight: 900;
+}
+#submit01{
+    color: rgb(255, 30, 0);
+    background-color: aqua;
+    font-size: 2cap;
+}
+.tow{
+color: brown;
+background-color: blueviolet;
+}
+.rectangle{
+    width: 500;
+    height: 200;
+    background-color: brown;
+}
+.carée{
+    width: 400;
+    height: 400;
+    background-color: blue;
+}
+
+.roi01{
+    background-color: brown;
+    width: 600px;
+    height: 400px;
+    margin: 100px;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: blue;
+    border-style: dashed;
+    padding: 50px;
+    font-size: 50px;
+   
+}
+    
+
+
+.roi22{
+    background-color: brown;
+    width: 600px;
+    height: 400px;
+    margin: 100px;
+    border-radius: 20px;
+    border-width: 10px;
+    border-color: blueviolet;
+    padding: 70px;
+    border-style: dotted;
+}
+.taile22{
+   font-size: 100px;
+}
+

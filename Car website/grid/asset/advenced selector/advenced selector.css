@@ -1,0 +1,17 @@
+div p {
+color: brown;
+}
+input[type="text"]{
+    color: blue;
+}
+input[type="password"]{
+    color: brown;
+}
+button:hover{
+    cursor: pointer;
+}
+
+input[type="text"]:focus{
+    background-color: blue;
+}
+ 
